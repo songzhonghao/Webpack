@@ -1,0 +1,25 @@
+@import "font.css";
+
+:root {
+    --green: green;
+}
+
+p {
+    background-color: pink;
+}
+
+#ts {
+    width: 768px;
+    height: 1024px;
+    background-image: url("../images/001.jpg");
+    display: flex;
+    transform: rotateX(130deg);
+    color: var(--green);
+
+}
+
+#loading {
+    width: 768px;
+    height: 1024px;
+    background-image: url("../images/002.jpg");
+}

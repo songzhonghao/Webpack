@@ -1,0 +1,20 @@
+h1 {
+    background-color: red;
+    font-size: 100px;
+}
+p {
+    background-color: pink;
+}
+
+#ts {
+    width: 768px;
+    height: 1024px;
+    background-image: url(../img/001.jpg);
+
+}
+
+#loading {
+    width: 768px;
+    height: 1024px;
+    background-image: url(../img/002.jpg);
+}
